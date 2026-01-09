@@ -4,6 +4,9 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+body{
+  background-color: bisque;
+}
 #piano {
   background-color: #00471b;
   width: 992px;

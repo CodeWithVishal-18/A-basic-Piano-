@@ -28,4 +28,4 @@ Open index.html in your browser to view the piano layout.
 
 This project demonstrates my attention to detail in UI layout design using HTML and CSS. It highlights my understanding of box models, positioning, pseudo-elements, and responsive techniques, and is included as part of my frontend development portfolio.
 
-## In future we optimised this piano using animation, add sound when one button is clicked using js 
+## In future we optimised this piano using animation, add sound when one button is clicked using javascript

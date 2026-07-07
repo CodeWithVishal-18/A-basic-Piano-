@@ -8,8 +8,6 @@ This project focuses on layout precision, pseudo-elements, and responsive design
 
 ⚫ Black keys created using CSS pseudo-elements
 
-📐 Pixel-precise spacing and alignment
-
 📱 Responsive scaling for smaller screens
 
 🎨 Clean and minimal design
